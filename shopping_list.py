@@ -14,3 +14,5 @@ print(f"W sumie kupuję {prod_number} produktów.")
 
 #Pierwszy commit na GitHub
 #drugi commit na GitHub
+# By zadanie dziś zaliczyć
+# TRrzeba nieźle się naćwiczyć
