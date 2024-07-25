@@ -12,4 +12,5 @@ for sklep, produkty in purch_list.items():
 
 print(f"W sumie kupuję {prod_number} produktów.")
 
-#Pierwszy commid na GitHub
+#Pierwszy commit na GitHub
+#drugi commit na GitHub
