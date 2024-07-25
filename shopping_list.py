@@ -11,3 +11,5 @@ for sklep, produkty in purch_list.items():
   print(f"Idę do {sklep.upper()} i kupuję tam {capit_produkty}.")
 
 print(f"W sumie kupuję {prod_number} produktów.")
+
+#Pierwszy commid na GitHub
